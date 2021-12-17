@@ -12,14 +12,26 @@
   * Checkout Times for Users
   - This analysis shows most of bike use is within 20 minutes of the first hour after checkout.
 
+![Checkout Times for Users](https://user-images.githubusercontent.com/89214854/146474070-43e13ece-ca95-4ad3-93c3-01f8ddbefdc1.png)
+
+
   * Checkout times by gender
   - In this Tableau worksheet, we found extremely high number of male bike users, followed female and unknown gender
+
+![checkout times by gender](https://user-images.githubusercontent.com/89214854/146474097-85199437-e283-4d93-af77-d381544fedbe.png)
+
 
   * Trips by Weekday per hour
   - This analysis show bike as means of commute to many people in NY city as it is more popular during rush ours
 
+![Trips By Weekday per Hour](https://user-images.githubusercontent.com/89214854/146474129-46c7a5b9-73b0-494e-8083-5445cf0b491e.png)
+
+
   * Trips by gender (weekday hours)
   - As expected, male users dominate the bike usage' and it is mostly during rush hour of weekdays
+
+![Trips by gender(weekday hourly)](https://user-images.githubusercontent.com/89214854/146474166-b28c2a46-b9d9-40eb-84ae-fdf610dfe5a6.png)
+
 
 ## Conclusion
 
